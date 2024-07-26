@@ -46,6 +46,7 @@ FirstFlaskApp> git status
 FirstFlaskApp> python -m venv .venv \
 FirstFlaskApp> .venv\Scripts\activate \
 (.venv) FirstFlaskApp> pip list \
+(.venv) FirstFlaskApp> python.exe -m pip install --upgrade pip \
 (.venv) FirstFlaskApp> pip install flask \
 (.venv) FirstFlaskApp> code .
 
